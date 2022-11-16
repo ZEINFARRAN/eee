@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649689069931",
+    "project_id": "login-project-806c2",
+    "storage_bucket": "login-project-806c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649689069931:android:bed28f789489eadf6cf42e",
+        "android_client_info": {
+          "package_name": "zeintry.try.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649689069931-5usn933vbdglus96e5lqj3e1626ubb7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjIdH0omZ7IK55F8R5Tt9jXDVNjFqQnGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649689069931-5usn933vbdglus96e5lqj3e1626ubb7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
